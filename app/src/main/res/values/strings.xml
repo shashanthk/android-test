@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MaterialNavigationMenu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_drawer_open">Open</string>
+    <string name="nav_drawer_close">Close</string>
+
+    <string-array name="nav_drawer_items_array">
+        <item>Primary</item>
+        <item>Social</item>
+        <item>Promotions</item>
+        <item>Updates</item>
+        <item>Starred</item>
+        <item>Sent</item>
+    </string-array>
+    <string-array name="nav_drawer_items_icons_array">
+        <item>@drawable/ic_inbox_black</item>
+        <item>@drawable/ic_group_black</item>
+        <item>@drawable/ic_loyalty_black</item>
+        <item>@drawable/ic_info_black</item>
+        <item>@drawable/ic_star_rate_black</item>
+        <item>@drawable/ic_send_black</item>
+    </string-array>
+</resources>
